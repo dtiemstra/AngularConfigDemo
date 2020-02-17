@@ -1,0 +1,4 @@
+{
+    "configValue1": "value 1 from config.json",
+    "configValue2": "value 2 from config.json"
+}
